@@ -1,7 +1,7 @@
 # namaste-react-jsx
 
 
-# Babel is a JavaScript compiler that plays a crucial role in React development. It allows developers to use the latest JavaScript features (ES6+, ES7+, etc.) and JSX syntax in their React applications, while ensuring compatibility with older browsers that might not support these features natively.
+Babel is a JavaScript compiler that plays a crucial role in React development. It allows developers to use the latest JavaScript features (ES6+, ES7+, etc.) and JSX syntax in their React applications, while ensuring compatibility with older browsers that might not support these features natively.
 # Here's how Babel works with React:
 
 1. Transpiling JSX:
